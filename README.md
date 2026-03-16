@@ -1,16 +1,26 @@
 ## Hi there 👋
 
 <!--
-**UmutDorukOzturk/UmutDorukOzturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Doruk
 
-Here are some ideas to get you started:
+Statistics graduate from Middle East Technical University interested in Data Science, Machine Learning, and Statistical Modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills
+- Python
+- R
+- Data Science
+- Machine Learning
+- PyTorch
+- Statistical Modeling
+- Data Analysis
+
+## Projects
+- LLM Preference Prediction (Kaggle Competition)
+- Workout Calories Prediction (Kaggle Playground Series)
+- Social Anxiety Dataset Analysis
+- Machine Learning Modeling Projects
+
+## Links
+- Kaggle: https://www.kaggle.com/umutdorukztrk
+- LinkedIn: www.linkedin.com/in/umut-doruk-ozturk
 -->
