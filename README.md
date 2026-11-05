@@ -1,4 +1,4 @@
-# Hi, I'm Umut 👋
+# Hi, I'm Doruk 👋
 
 **Statistician (METU) & Python developer.** I turn websites, PDFs and messy spreadsheets into clean, **checked** Excel reports, and I automate the work so it runs in one click.
 
