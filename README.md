@@ -1,26 +1,21 @@
-## Hi there 👋
+# Hi, I'm Umut 👋
 
-<!--
-# Hi, I'm Doruk
+**Statistician (METU) & Python developer.** I turn websites, PDFs and messy spreadsheets into clean, **checked** Excel reports, and I automate the work so it runs in one click.
 
-Statistics graduate from Middle East Technical University interested in Data Science, Machine Learning, and Statistical Modeling.
+### Portfolio
 
-## Skills
-- Python
-- R
-- Data Science
-- Machine Learning
-- PyTorch
-- Statistical Modeling
-- Data Analysis
+| | Project | What it does |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/price-scraper-excel/main/docs/images/cover.png" width="260"> | **[Website → Excel price scraper](https://github.com/YOUR-GITHUB-USERNAME/price-scraper-excel)** | 1,000 products from 50 pages into a formatted Excel report, with price-change tracking |
+| <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/invoice-extractor-ai/main/docs/images/cover.png" width="260"> | **[AI invoice extractor](https://github.com/YOUR-GITHUB-USERNAME/invoice-extractor-ai)** | PDF invoices in any layout or language (scans via Claude AI) into a checked Excel file that catches wrong totals and duplicates |
+| <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/sales-report-automation/main/docs/images/cover.png" width="260"> | **[Sales report automation](https://github.com/YOUR-GITHUB-USERNAME/sales-report-automation)** | 18 messy branch exports merged into one KPI report, with typos, duplicates and subtotal rows fixed automatically |
 
-## Projects
-- LLM Preference Prediction (Kaggle Competition)
-- Workout Calories Prediction (Kaggle Playground Series)
-- Social Anxiety Dataset Analysis
-- Machine Learning Modeling Projects
+### What I do
+- **Web scraping**: prices, catalogues, listings, directories → Excel / Google Sheets
+- **Document data extraction**: invoices, receipts, contracts, PDFs → structured data, with AI where needed
+- **Excel & reporting automation**: merge, clean and report in one click
+- **Statistical analysis**: R, Python, SPSS
 
-## Links
-- Kaggle: https://www.kaggle.com/umutdorukztrk
-- LinkedIn: www.linkedin.com/in/umut-doruk-ozturk
--->
+**Tech:** Python · pandas · requests · BeautifulSoup · pdfplumber · Claude API · openpyxl · pytest · R · SQL
+
+📫 [Upwork](https://www.upwork.com/freelancers/YOUR-PROFILE) · [Fiverr](https://www.fiverr.com/YOUR-USERNAME) · [LinkedIn](https://www.linkedin.com/in/umut-doruk-ozturk)
