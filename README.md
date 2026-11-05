@@ -16,6 +16,12 @@
 - **Excel & reporting automation**: merge, clean and report in one click
 - **Statistical analysis**: R, Python, SPSS
 
-**Tech:** Python · pandas · requests · BeautifulSoup · pdfplumber · Claude API · openpyxl · pytest · R · SQL
+### Data science & machine learning
+- LLM Preference Prediction (Kaggle competition)
+- Workout Calories Prediction (Kaggle Playground Series)
+- Social Anxiety Dataset Analysis
+- Statistical modeling and ML projects in Python (PyTorch) and R
 
-📫 [Upwork](https://www.upwork.com/freelancers/YOUR-PROFILE) · [Fiverr](https://www.fiverr.com/YOUR-USERNAME) · [LinkedIn](https://www.linkedin.com/in/umut-doruk-ozturk)
+**Tech:** Python · pandas · requests · BeautifulSoup · pdfplumber · Claude API · openpyxl · pytest · PyTorch · R · SQL
+
+📫 [Upwork](https://www.upwork.com/freelancers/YOUR-PROFILE) · [Fiverr](https://www.fiverr.com/YOUR-USERNAME) · [Kaggle](https://www.kaggle.com/umutdorukztrk) · [LinkedIn](https://www.linkedin.com/in/umut-doruk-ozturk)
